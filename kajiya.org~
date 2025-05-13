@@ -1,0 +1,134 @@
+* Tech Kajiya :Tech_Kajiya:
+
+** Bloomhire :Bloomhire:
+
+*** TODO [#A] Pago pendiente de Lambdas
+DEADLINE: <2025-01-22 Wed>
+- Atraso es propio por falta de tiempo.
+- Evaluando delegar a Mario.
+- Probar CD/CI en MacBook antes del viaje a Tokio.
+
+*** Desarrollo de Lambdas para Bloomhire
+
+**** DONE Configurar ambiente de desarrollo Python Lambda en Emacs  
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-03-10 Sun]
+:END:
+
+**** DONE Configuración de GitHub y CI/CD  
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-03-10 Sun]
+:END:
+
+**** DONE IN-PROGRESS Mejorar Lambda General  
+DEADLINE: <2025-03-23 Sat>
+:LOGBOOK:
+- State "IN-PROGRESS" from "TODO"       [2025-03-17 Mon]
+:END:
+- Sigue bloqueo técnico.
+- Plan: Delegar a Mario esta semana.
+
+**** TODO Desarrollar Lambdas Individuales  
+DEADLINE: <2025-03-30 Sat>
+- No se ha iniciado. Pendiente delegar o reprogramar.
+
+**** TODO Implementar el sistema de Matching  
+DEADLINE: <2025-04-07 Sun>
+- Detenido por no haber avanzado con las lambdas anteriores.
+
+**** TODO Generar documentación final  
+DEADLINE: <2025-04-14 Sun>
+- Pendiente.
+
+*** Ajustes de Pipeline
+
+**** TODO Ajuste de fetch dinámico :Nery:  
+:LOGBOOK:
+CLOCK: [2025-01-23 Thu 23:25]--[2025-01-24 Fri 01:07] =>  1:42
+:END:
+
+**** TODO Update documentation  
+
+---
+
+** Seguimiento y Creación de Empresa  
+
+*** TODO Seguimiento con Jacopo sobre pricing para la Expo :Kiseki:  
+DEADLINE: <2025-03-22 Fri>  
+:PROPERTIES:
+:RESPONSIBLE: Kiseki
+:END:
+- Preguntar a Kiseki si ya hizo contacto.
+
+*** DONE Completar documentos de creación de empresa :Kiseki:  
+DEADLINE: <2025-03-30 Sat>  
+:PROPERTIES:
+:RESPONSIBLE: Kiseki
+:END:
+- Myki prestará ¥5,000,000.
+- Pendiente: generar plan de pagos.
+- Hablar con Shrey sobre transferencias a Japón sin wire.
+- Establecer gastos deducibles a reportar.
+
+---
+
+** Nuevo Proyecto: Funnel en Japón  
+
+*** TODO Investigar oportunidades en cuentas de programación en Japón  
+DEADLINE: <2025-04-15 Mon>
+:PROPERTIES:
+:RESPONSIBLE: TBD  
+:END:
+- [ ] Buscar freelancers y comunidades (Lancers, CrowdWorks, etc).
+- [ ] Identificar tendencias de proyectos tech.
+- [ ] Estimar demanda por tipo de tecnología.
+- [ ] Agregar a org-agenda como tareas diarias divididas.
+
+---
+
+** R&D Projects  
+
+*** IN-PROGRESS Implementar Local LLM en mi PC y conectar con GPTel en Emacs  
+DEADLINE: <2025-03-24 Sun>
+:PROPERTIES:
+:RESPONSIBLE: Yo  
+:END:
+- GPTel ya configurado en Emacs.
+- Falta integrarlo con flujo actual de Org.
+
+*** TODO Unificación de calendarios y TODOs en Emacs  
+DEADLINE: <2025-03-27 Wed>
+:PROPERTIES:
+:RESPONSIBLE: Yo  
+:END:
+- [ ] Investigar org-gcal vs super-agenda.
+- [ ] Sincronización bidireccional con MS Calendar (API).
+- [ ] Analizar integraciones con Teams + Emacs.
+
+*** TODO IN-PROGRESS Gestión de emails en Emacs  
+DEADLINE: <2025-03-30 Sat>
+:PROPERTIES:
+:RESPONSIBLE: Yo  
+:END:
+- Cliente seleccionado: `mu4e`.
+- Investigar cómo manejar Teams desde Emacs.
+
+---
+
+** Branding, Posicionamiento & Video Strategy :Branding:
+
+*** TODO Coordinación de branding con Emilio  
+- Nuevo branding para Kajiya en desarrollo.
+
+*** TODO Crear pitch deck y diagrama con Kohei y Myki  
+DEADLINE: <2025-04-05 Sat>
+- Levantamiento de fondos en Japón.
+- Presentación para Vensure.
+- Esperando respuesta de NDA.
+
+*** TODO Video para posicionamiento personal con apoyo japonés  
+- Blog para Allied Global.
+- Recolectar endorsements.
+- Entrevistas con Shogo-san e Inouse-san (viernes 4 abril en Osaka).
+- Guión documentado:  
+  https://docs.google.com/document/d/1okVYchPgpohoGDTpMq_TuTLV78n_t0PuYgKZqvug1Xk/edit

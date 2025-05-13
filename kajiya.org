@@ -1,0 +1,97 @@
+* Tech Kajiya :Tech_Kajiya:
+
+** Bloomhire :Bloomhire:
+
+*** TODO [#A] Cierre operativo con cliente de Lambdas
+DEADLINE: <2025-04-29 Tue>
+- Mario finalizó Lambdas generales.
+- Dividir en Lambdas individuales para mayor control y documentación.
+- Redactar manual de usuario.
+- Notificar cierre de pruebas al cliente.
+- Entregar documentación final.
+
+**** TODO Dividir Lambda General en Lambdas Individuales
+DEADLINE: <2025-04-25 Fri>
+- Asignado a Mario.
+
+**** TODO Redactar Manual de Usuario
+DEADLINE: <2025-04-26 Sat>
+- Asignado a ti.
+- Basado en estructura dividida.
+
+**** TODO Comunicación de cierre con cliente
+DEADLINE: <2025-04-29 Tue>
+- Notificar fin de pruebas.
+- Dejar abierta la posibilidad de mejora futura.
+
+**** TODO Documentación técnica final
+DEADLINE: <2025-04-30 Wed>
+- Acordar estructura con Mario.
+- Centralizar en Notion o GitHub.
+
+** Creación de Empresa Japón :Legal:
+
+*** TODO Transferencias escalonadas vía Wise
+DEADLINE: <2025-04-24 Wed>
+- Enviar primer monto pequeño.
+- Riesgo con wire transfers.
+
+*** TODO Plan de desembolsos y pagos a Mario
+DEADLINE: <2025-04-26 Sat>
+- Emilio negocia NDA y términos.
+- Definir cronograma de pagos.
+
+** Funnel Japón :Expansion:
+
+*** TODO Evaluar energía de Kiseki
+DEADLINE: <2025-04-23 Tue>
+- Determinar si puede retomar tareas.
+
+*** TODO Dividir investigación de mercado tech
+DEADLINE: <2025-04-24 Wed>
+- [ ] Freelancers y comunidades (Lancers, CrowdWorks).
+- [ ] Tendencias de proyectos tech.
+- [ ] Estimar demanda por tecnología.
+- [ ] Convertir en subtareas de org-agenda.
+
+*** TODO Primer borrador de insights tech
+DEADLINE: <2025-04-30 Wed>
+- Responsable: Kiseki (si disponible).
+
+** R&D Projects :Emacs:
+
+*** TODO [#A] Unificación de calendarios y TODOs (enfocado en Gmail)
+DEADLINE: <2025-04-25 Fri>
+- Prioridad máxima para flujo diario.
+- Empezar por Gmail donde tienes control total.
+
+*** TODO Research sobre Outlook IMAP / permisos IT
+DEADLINE: <2025-04-26 Sat>
+- Preparar solicitud técnica con ayuda de GPT.
+
+*** TODO Gestión de emails en Emacs (Gmail)
+DEADLINE: <2025-04-29 Tue>
+- Configurar `mu4e` con Gmail.
+
+*** TODO Rediseñar flujo LLM usando API Keys
+DEADLINE: <2025-04-30 Wed>
+- Usar OpenAI y evitar dependencia de hardware.
+
+** Branding & Posicionamiento :Branding:
+
+*** TODO Terminar entrevistas faltantes para video
+DEADLINE: <2025-04-27 Sun>
+- Profesor Kobe, ATC, Kiseki.
+
+*** TODO Montaje final del nuevo video
+DEADLINE: <2025-05-02 Fri>
+- Integrar entrevistas, editar y compartir.
+
+*** TODO Subir video y estrategia de difusión
+DEADLINE: <2025-05-03 Sat>
+- Posicionamiento personal.
+
+*** TODO Preparar pitch para semifinal HICOOL China
+DEADLINE: <2025-04-28 Mon>
+- Enfocado en edge de Japón y tech.
+
